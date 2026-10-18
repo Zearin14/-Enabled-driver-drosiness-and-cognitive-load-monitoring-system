@@ -1,0 +1,10 @@
+{
+  "name": "NeuroDrive - AI Telemetry & Cockpit HUD",
+  "description": "Real-time AI facial mesh & cognitive load telemetry for driver fatigue, micro-sleep prevention, tactical cockpit HUD, and fleet safety management.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
